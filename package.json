@@ -33,7 +33,7 @@
   "devDependencies": {
     "@babel/core": "^7.26.0",
     "@tailwindcss/typography": "^0.5.15",
-    "@types/animejs": "^3.1.12",
+    "@types/animejs": "^3.1.13",
     "@types/lodash": "^4.17.12",
     "@types/node": "^20.17.1",
     "@types/react": "^18.3.12",

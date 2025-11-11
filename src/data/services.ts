@@ -3,21 +3,6 @@ import { IServiceItem } from "@/types";
 const services: IServiceItem[] = [
   {
     id: 1,
-    title: "Mobile App Development",
-    icons: [
-      "/skills/socket-io.png",
-      "/skills/dart.svg",
-      "/skills/flutter.svg",
-      "/skills/getx.png",
-      "/skills/firebase.svg",
-    ],
-    shortDescription:
-      "I create engaging mobile applications for your audience.",
-    description:
-      "I create captivating mobile apps from concept to deployment for iOS and Android. Using cutting-edge technologies, I ensure seamless performance, intuitive interfaces, and robust functionality that align with your business goals. Enjoy a flawless user experience and outstanding results.",
-  },
-  {
-    id: 2,
     title: "Web Development",
     icons: [
       "/skills/redux.svg",
@@ -31,7 +16,7 @@ const services: IServiceItem[] = [
       "I deliver stunning, user-friendly websites to establish your online presence. From simple sites to complex e-commerce platforms, I provide tailored solutions using the latest frameworks and technologies for a seamless, responsive, and SEO-friendly browsing experience. Enhance your online identity with quality.",
   },
   {
-    id: 3,
+    id: 2,
     title: "Backend Development",
     icons: [
       "/skills/socket-io.png",
@@ -45,7 +30,7 @@ const services: IServiceItem[] = [
       "I enhance digital applications with robust, scalable backend infrastructures. I develop efficient database structures, APIs, and configure servers for optimal performance, security, and scalability, ensuring your applications handle high traffic and complex data management seamlessly. Rely on strong backend solutions.",
   },
   {
-    id: 4,
+    id: 3,
     title: "Product Strategy",
     icons: [
       "/skills/git.svg",
@@ -60,21 +45,21 @@ const services: IServiceItem[] = [
       "I collaborate to define clear goals, target audiences, and a success roadmap. My expertise in product ideation and market analysis ensures your product meets user needs and aligns with your business strategy for long-term growth and full potential realization. Drive your product's success with strategic planning.",
   },
   {
-    id: 5,
-    title: "DevOps",
+    id: 4,
+    title: "Software Development",
     icons: [
-      "/skills/docker.svg",
-      "/skills/kubernetes.svg",
-      "/skills/aws.svg",
-      "/skills/jenkins.svg",
-      "/skills/terraform.svg",
+      "/skills/javascript.svg",
+      "/skills/dart.svg",
+      "/skills/cpp.png",
+      "/skills/getx.png",
+      "/skills/typescript.svg",
     ],
-    shortDescription: "I streamline development and operations processes.",
+    shortDescription:
+      "I build efficient and user-friendly software solutions",
     description:
-      "I streamline development and operations processes through effective DevOps practices. I implement continuous integration and deployment pipelines, manage cloud infrastructure, and use containerization to ensure efficient, reliable, and scalable software delivery. Improve your workflow with DevOps solutions.",
-  },
-  {
-    id: 6,
+     "I design and develop powerful software applications from concept to deployment. By using modern technologies and clean coding practices, I ensure high performance, scalability, and intuitive user experiences. My focus is on delivering reliable solutions that meet real-world business needs.",
+  },  {
+    id: 5,
     title: "Database Management",
     icons: [
       "/skills/mysql.svg",
